@@ -2,7 +2,7 @@
 
 > Status: Finished ✅
 
-<h3>Esta é uma aplicação em Python para geração de CPF Matematicamente Válido</h3>
+<h3>Esta é uma aplicação em Python para validação de CPF (Matematicamente Válido)</h3>
 -Para prática🤓
 
 <h2>Tecnologias Usadas</h2>
